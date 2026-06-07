@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 """
 @Project ：lbu_knowledge_base 
-@File    ：markdown_image_service.py
+@File    ：enrich_markdown_images.py
 @IDE     ：PyCharm 
 @Author  ：Clark
 @Date    ：2026/6/7 11:59 

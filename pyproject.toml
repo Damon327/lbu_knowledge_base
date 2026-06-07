@@ -32,11 +32,11 @@ dependencies = [
     # -----------------------------------------------
     "uvicorn>=0.42.0",
     "transformers>=4.57.6",
-    "datasets>=4.8.4",
     "openai-agents>=0.4.2",
     "requests>=2.32.5",
     "langchain-mcp-adapters>=0.2.2",
     "dashscope>=1.25.17",
+    "datasets>=2.14,<3.0",
 ]
 
 # 限制 uv 只解析当前 macOS 平台，避免跨平台解析报错

@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 """
 @Project ：lbu_knowledge_base 
-@File    ：split_document.py
+@File    ：split_service.py
 @IDE     ：PyCharm 
 @Author  ：Clark
 @Date    ：2026/6/7 12:00 
